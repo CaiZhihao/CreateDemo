@@ -55,7 +55,7 @@ public class MainActivity extends BaseActivity implements MainContract.View {
 
     private Subscription subscription;
 
-    private String deviceId;
+    private String deviceId;//
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
