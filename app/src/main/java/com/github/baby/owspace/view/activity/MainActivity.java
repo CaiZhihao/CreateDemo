@@ -44,7 +44,7 @@ public class MainActivity extends BaseActivity implements MainContract.View {
     VerticalViewPager viewPager;
     private SlidingMenu slidingMenu;
     private LeftMenuFragment leftMenu;
-    private RightMenuFragment rightMenu;
+    private RightMenuFragment rightMenu;//
     @Inject
     MainPresenter presenter;
     private VerticalPagerAdapter pagerAdapter;
