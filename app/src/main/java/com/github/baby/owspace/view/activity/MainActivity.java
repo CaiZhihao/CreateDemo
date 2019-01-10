@@ -53,7 +53,7 @@ public class MainActivity extends BaseActivity implements MainContract.View {
     private boolean isLoading = true;
     private long mLastClickTime;
 
-    private Subscription subscription;
+    private Subscription subscription;//
 
     private String deviceId;//
 
